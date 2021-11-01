@@ -1,0 +1,45 @@
+html,body {
+    background-color: rgb(35, 35, 207);
+    font-family:sans-serif;
+}
+div.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+header{ 
+    color: #27648dd8;
+    margin: 0;
+    padding: 20px 0;
+    float: left;
+    width: 100%;
+}
+
+header h1{
+    float:left;
+
+}
+
+header ul {
+    float: right;
+    margin: 15px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+header ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+}
+header ul li a{
+    margin: 0;
+    padding: 15px 20px;
+    display: block;
+    color: #27648dd8;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none ;
+
+}
