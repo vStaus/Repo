@@ -10,6 +10,7 @@ div.container{
     padding: 0 30px;
 }
 header{ 
+    background-color: lavender;
     color: blueviolet;
     margin: 0;
     padding: 20px 0;
@@ -37,7 +38,7 @@ header ul li {
 }
 header ul li a{
     margin: 0;
-    padding: 15px 20px;
+    padding: 15px 40px;
     display: block;
     color: #099dff;
     font-weight: bold;
