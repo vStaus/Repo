@@ -53,7 +53,6 @@ header ul li a{
     color:#099dff ;
     display: bold;
     font-size: 40px;
-
 }
 div.block {
     float: left;
@@ -61,6 +60,25 @@ div.block {
     height: 200px;
 }
 div.block.one {
-    background-color: yellow;
+    background-color: goldenrod;
     transform: translate(0%,20%);
+}
+div.box {
+    padding: 20px;
+    margin: 60px;
+    width: 400px;
+    height: 460px;
+    float:left;
+}  
+div.box.one {
+    background-color: hotpink;
+}
+div.box.two{
+    background-color: lightsalmon;
+}
+div.box.three {
+    background-color: hotpink;
+}
+div.box.four{
+    background-color: lightsalmon;
 }
