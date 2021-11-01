@@ -1,6 +1,8 @@
 html,body {
-    background-color: rgb(35, 35, 207);
+    background-color:#5dc4fc5d ;
     font-family:sans-serif;
+    margin: 0;
+    padding: 0;
 }
 div.container{
     max-width: 1200px;
@@ -8,7 +10,7 @@ div.container{
     padding: 0 30px;
 }
 header{ 
-    color: #27648dd8;
+    color: blueviolet;
     margin: 0;
     padding: 20px 0;
     float: left;
@@ -37,7 +39,7 @@ header ul li a{
     margin: 0;
     padding: 15px 20px;
     display: block;
-    color: #27648dd8;
+    color: #099dff;
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none ;
