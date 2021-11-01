@@ -44,7 +44,7 @@ header ul li a{
     display: block;
     color: #099dff;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     text-transform: uppercase;
     text-decoration: none ;
 
@@ -52,12 +52,15 @@ header ul li a{
 .fa-shopping-cart {
     color:#099dff ;
     display: bold;
-    font-size: 20px;
+    font-size: 40px;
 
 }
-div {
-    background-color: darkgreen;
-    width: 1200px;
-    padding: 0;
-    margin: 0;
+div.block{
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+div.block.one {
+    background-color: yellow;
+    transform: translate(0%,20%);
 }
